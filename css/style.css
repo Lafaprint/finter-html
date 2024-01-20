@@ -102,8 +102,8 @@ a:focus {
 .hero_area .hero_bg_box img {
   width: auto;
   height: auto;
-  min-width: 100%;
-  min-height: 100%;
+  width: 100%;
+  height: 100%;
 }
 
 .hero_area .hero_bg_box::before {
@@ -707,7 +707,9 @@ a:focus {
   background-color: #f9f9f9;
 }
 
-.contact_section .heading_container {
+.
+
+.heading_container {
   margin-bottom: 45px;
 }
 
@@ -783,7 +785,8 @@ a:focus {
 }
 
 .contact_section .img-box img {
-  min-width: 100%;
+  width: 100%; /* ou qualquer valor desejado */
+  height: relative; /* Isso preserva a proporção original da imagem */
 }
 
 .client_section .client_container {
