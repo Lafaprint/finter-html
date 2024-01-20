@@ -1005,4 +1005,10 @@ a:focus {
 .footer_section p a {
   color: inherit;
 }
-/*# sourceMappingURL=style.css.map */
+
+.navbar-brand img {
+  width: 200px; /* Defina a largura desejada */
+  /* height: auto; */ /* Descomente esta linha se quiser manter a proporção original */
+}
+
+/*# sourceMappingURL=style.css.map */https://chat.openai.com/c/800c8bda-619e-46d1-8527-9c6e8ccda9b2
