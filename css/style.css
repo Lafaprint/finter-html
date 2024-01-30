@@ -1011,4 +1011,8 @@ a:focus {
   /* height: auto; */ /* Descomente esta linha se quiser manter a proporção original */
 }
 
-/*# sourceMappingURL=style.css.map */https://chat.openai.com/c/800c8bda-619e-46d1-8527-9c6e8ccda9b2
+p{
+  margin-bottom: 100px; /* Adiciona espaçamento na parte inferior de cada parágrafo */
+  padding-bottom: 100px; /* Adiciona preenchimento na parte inferior de cada parágrafo */
+  font-size: 20px;
+}
